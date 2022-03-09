@@ -1,8 +1,8 @@
 # react-context-users-list
 
-## You can clone this repository in following way:
-
 ![react-context-users-list](https://user-images.githubusercontent.com/67078790/157552312-a8e67031-4b29-4b58-9016-3c356909e120.PNG)
+
+## You can clone this repository in following way:
 
 ```sh
 
